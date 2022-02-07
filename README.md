@@ -1,1 +1,2 @@
- cs320-lab2
+Wow, This lab is so great!
+
